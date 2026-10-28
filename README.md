@@ -96,6 +96,10 @@ Looped (`loop:=true`) counts laps 1, 2, 3 with every gate in order and no extra 
 
 ![looped](docs/running_test_in_ros2_looped.png)
 
+Offline self-check (20 images, 0 false triggers):
+
+![self check](docs/self_check_0_false_triggers.png)
+
 ## Parameters
 
 | name | default | meaning |
